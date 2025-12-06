@@ -1,0 +1,102 @@
+{
+  "Andaman and Nicobar Islands": [
+    { "name": "Havelock Island", "type": "beach", "image": "havelock island.JPG" }
+  ],
+  "Andhra Pradesh": [
+    { "name": "Tirupati", "type": "temple", "image": "Tirupati.jpg" }
+  ],
+  "Arunachal Pradesh": [
+    { "name": "Tawang", "type": "mountain", "image": "tawang.jpg" }
+  ],
+  "Assam": [
+    { "name": "Kaziranga National Park", "type": "forest", "image": "kaziranga national park.jpg" }
+  ],
+  "Bihar": [
+    { "name": "Bodh Gaya", "type": "temple", "image": "bodh gaya.jpg" }
+  ],
+  "Chandigarh": [
+    { "name": "Sukhna Lake", "type": "lake", "image": "sukhna lake.JPG" }
+  ],
+  "Chhattisgarh": [
+    { "name": "Chitrakote Falls", "type": "forest", "image": "chitrakote falls.jpg" }
+  ],
+  "Dadra and Nagar Haveli and Daman and Diu": [
+    { "name": "Daman Beach", "type": "beach", "image": "daman beach.jpg" }
+  ],
+  "Delhi": [
+    { "name": "Red Fort", "type": "heritage", "image": "red fort.jpg" }
+  ],
+  "Goa": [
+    { "name": "Baga Beach", "type": "beach", "image": "baga beach.jpg" }
+  ],
+  "Gujarat": [
+    { "name": "Gir National Park", "type": "forest", "image": "gir national park.jpg" }
+  ],
+  "Haryana": [
+    { "name": "Kurukshetra", "type": "heritage", "image": "kurukshetra.jpg" }
+  ],
+  "Himachal Pradesh": [
+    { "name": "Manali", "type": "mountain", "image": "manali.jpg" }
+  ],
+  "Jammu and Kashmir": [
+    { "name": "Gulmarg", "type": "mountain", "image": "gulmarg.jpg" }
+  ],
+  "Jharkhand": [
+    { "name": "Betla National Park", "type": "forest", "image": "betla national park.jpg" }
+  ],
+  "Karnataka": [
+    { "name": "Hampi", "type": "heritage", "image": "hampi.jpg" }
+  ],
+  "Kerala": [
+    { "name": "Munnar", "type": "mountain", "image": "munnar.jpg" }
+  ],
+  "Ladakh": [
+    { "name": "Leh", "type": "mountain", "image": "leh.JPG" }
+  ],
+  "Lakshadweep": [
+    { "name": "Agatti Island", "type": "beach", "image": "agatti island.jpg" }
+  ],
+  "Madhya Pradesh": [
+    { "name": "Khajuraho Temple", "type": "temple", "image": "Khajuraho Temple.jpg" }
+  ],
+  "Maharashtra": [
+    { "name": "Ajanta Caves", "type": "heritage", "image": "ajanta caves.jpg" }
+  ],
+  "Manipur": [
+    { "name": "Loktak Lake", "type": "lake", "image": "loktak lake.jpg" }
+  ],
+  "Meghalaya": [
+    { "name": "Cherrapunji", "type": "mountain", "image": "cherrapunji.JPG" }
+  ],
+  "Nagaland": [
+    { "name": "Dzukou Valley", "type": "mountain", "image": "dzukou valley.jpg" }
+  ],
+  "Odisha": [
+    { "name": "Puri Jagannath Temple", "type": "temple", "image": "puri jagannath temple.jpg" }
+  ],
+  "Punjab": [
+    { "name": "Golden Temple", "type": "temple", "image": "Golden Temple.jpg" }
+  ],
+  "Rajasthan": [
+    { "name": "Jaipur", "type": "heritage", "image": "jaipur.jpg" }
+  ],
+  "Sikkim": [
+    { "name": "Gangtok", "type": "mountain", "image": "gangtok.jpg" }
+  ],
+  "Tamil Nadu": [
+    { "name": "Ooty", "type": "mountain", "image": "ooty.jpg" }
+  ],
+  "Telangana": [
+    { "name": "Golconda Fort", "type": "heritage", "image": "Golconda_Fort_005.jpg" }
+  ],
+  "Tripura": [
+    { "name": "Ujjayanta Palace", "type": "heritage", "image": "ujjayanta palace.jpg" }
+  ],
+  "Uttar Pradesh": [
+    { "name": "Taj Mahal", "type": "heritage", "image": "taj mahal.jpg" }
+  ],
+  "West Bengal": [
+    { "name": "Darjeeling", "type": "mountain", "image": "darjeeling.jpg" }
+  ]
+}
+
